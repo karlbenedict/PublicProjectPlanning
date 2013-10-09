@@ -1,4 +1,4 @@
-PublicProjextPlanning
+PublicProjectPlanning
 =====================
 
 Public access to Karl's project plans
